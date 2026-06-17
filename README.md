@@ -16,7 +16,7 @@ The project was designed to answer key business questions:
 * Which forecasting model provides the most reliable predictions?
 
 ---
-## Project Files
+## Datasets
 📂 Dataset used in this project:
 
 [Sales Data](sales_data.csv)
